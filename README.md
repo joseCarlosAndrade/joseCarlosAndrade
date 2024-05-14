@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, PostgresSQL, Java Springboot JPA, Docker, Golang**
 
-- 👨‍💻 Some of my projects are available at [josecarlosandrade.github.io/Portfolio-JC](josecarlosandrade.github.io/Portfolio-JC)
+- 👨‍💻 Some of my projects are available at [josecarlosandrade.github.io/Portfolio-JC](https://josecarlosandrade.github.io/Portfolio-JC)
 
 - 📫 How to reach me **josecarlos.101@usp.br**
 
