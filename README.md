@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josecarlosandrade" alt="josecarlosandrade" /></a> </p>
 
-- 🔭 I’m currently working on **Monipaep Organization**
+- 🔭 I’m currently working on **Monipaep Organization and Petrobras Project for University of Sao Paulo (USP)**
 
-- 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, PostgresSQL, Java Springboot JPA, Docker, Golang**
+- 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Java Springboot JPA, Golang**
 
-- 👨‍💻 Some of my projects are available at [josecarlosandrade.github.io/Portfolio-JC](https://josecarlosandrade.github.io/Portfolio-JC)
+- 👨‍💻 Some of my projects are available at [My Online Portfile](https://josecarlosandrade.github.io/Portfolio-JC)
 
-- 📫 How to reach me **josecarlos.101@usp.br**
+- 📫 How to reach me: **josecarlos.101@usp.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
