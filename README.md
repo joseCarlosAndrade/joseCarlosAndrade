@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecarlosandrade&label=Profile%20views&color=0e75b6&style=flat" alt="josecarlosandrade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josecarlosandrade" alt="josecarlosandrade" /></a> </p>
-
 - 🔭 I’m currently working on **Monipaep Organization and Petrobras Project for University of Sao Paulo (USP)**
 
 - 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Java Springboot JPA, Golang**
@@ -12,11 +10,20 @@
 - 👨‍💻 Some of my projects are available at [My Online Portfile](https://josecarlosandrade.github.io/Portfolio-JC)
 
 - 📫 How to reach me: **josecarlos.101@usp.br**
+  
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">✉️ Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/josé carlos nascimento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé carlos nascimento" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">🔥 Github Status:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecarlosandrade&show_icons=true&locale=en&layout=compact" alt="josecarlosandrade" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josecarlosandrade&show_icons=true&locale=en" alt="josecarlosandrade" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -62,7 +69,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecarlosandrade&show_icons=true&locale=en&layout=compact" alt="josecarlosandrade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josecarlosandrade&show_icons=true&locale=en" alt="josecarlosandrade" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josecarlosandrade" alt="josecarlosandrade" /></a> </p>
