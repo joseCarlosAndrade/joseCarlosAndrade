@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecarlosandrade&label=Profile%20views&color=0e75b6&style=flat" alt="josecarlosandrade" /> </p>
 
-- 🔭 I’m currently working on **Monipaep Organization and Petrobras Project for University of Sao Paulo (USP)**
+- 🔭 I’m currently working on **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
 
 - 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Java Springboot JPA, Golang**
 
