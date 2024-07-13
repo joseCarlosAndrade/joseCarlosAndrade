@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
 
-- 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Java Springboot JPA, Golang**
+- 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Golang for backend and microsservices implementation**
 
-- 👨‍💻 Some of my projects are available at [My Online Portfile](https://josecarlosandrade.github.io/Portfolio-JC)
+- 👨‍💻 Some of my projects are available at [My Online Portfolio](https://josecarlosandrade.github.io/Portfolio-JC)
 
 - 📫 How to reach me: **josecarlos.101@usp.br**
   
