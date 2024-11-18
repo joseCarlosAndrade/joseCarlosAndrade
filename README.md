@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecarlosandrade&label=Profile%20views&color=0e75b6&style=flat" alt="josecarlosandrade" /> </p>
 
-- 🔭 I’m currently working on **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
+- 💼 I'm currently working with **Golang** for **microservices development, management and deploying**, SQL databases, Docker, Kubernetes and Apache Kafka.
+
+- 🔭 I’m part of **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
 
 - 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Golang for backend and microsservices implementation**
 <!--- 👨‍💻 Some of my projects are available at [My Online Portfolio](https://josecarlosandrade.github.io/Portfolio-JC) -->
