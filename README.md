@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecarlosandrade&label=Profile%20views&color=0e75b6&style=flat" alt="josecarlosandrade" /> </p>
 
-- 💼 I'm currently working with **Golang** for **microservices development, management and deploying**, SQL databases, Docker, Kubernetes and Apache Kafka.
+- 💼 **Golang Software Engineer** at [Orasis Holding](https://www.linkedin.com/company/orasis-holding/posts/?feedView=all) with hands-on experience **developing, managing and deploying** scalable microsservices for pricing software solutions. My focus is on system design, event-driven distributed architecture and database services.
 
-- 🔭 I’m part of **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
+- 🔭 Contributed to **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
 
-- 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Golang for backend and microsservices implementation**
+<!--- - 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Golang for backend and microsservices implementation** -->
 <!--- 👨‍💻 Some of my projects are available at [My Online Portfolio](https://josecarlosandrade.github.io/Portfolio-JC) -->
 
 - 📫 How to reach me: **josecarlos.101@usp.br**
@@ -16,7 +16,7 @@
 
 <h3 align="left">✉️ Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jos%C3%A9-carlos-andrade-do-nascimento-71186421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé carlos nascimento" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-carlos-andrade-do-nascimento/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé carlos nascimento" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🔥 Github Status:</h3>
