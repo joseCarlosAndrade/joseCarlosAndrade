@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecarlosandrade&label=Profile%20views&color=0e75b6&style=flat" alt="josecarlosandrade" /> </p>
 
+## 👨‍💻 About me
+
 - 💼 **Golang Software Engineer** at [Orasis Holding](https://www.linkedin.com/company/orasis-holding/posts/?feedView=all) with hands-on experience **developing, managing and deploying** scalable microsservices for pricing software solutions. My focus is on system design, event-driven distributed architecture and database services.
 
 - 🔭 Contributed to **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
@@ -14,25 +16,47 @@
   
 
 
-<h3 align="left">✉️ Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jose-carlos-andrade-do-nascimento/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé carlos nascimento" height="30" width="40" /></a>
-</p>
+<!-- <h3 align="left">✉️ Connect with me:</h3> -->
 
-<h3 align="left">🔥 Github Status:</h3>
+## ✉️ Connect with me
+<!-- <p align="left">
+<a href="https://www.linkedin.com/in/jose-carlos-andrade-do-nascimento/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé carlos nascimento" height="30" width="40" /></a>
+</p> -->
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-carlos-andrade-do-nascimento)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jc.andrade.nascimento2003@gmail.com)
+
+<!-- <h3 align="left">🔥 Github Status:</h3> -->
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecarlosandrade&show_icons=true&locale=en&layout=compact" alt="josecarlosandrade" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josecarlosandrade&show_icons=true&locale=en" alt="josecarlosandrade" /></p> -->
 
+## 🔥 Github Status
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseCarlosAndrade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josecarlosandrade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joseCarlosAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=21" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joseCarlosAndrade&hide_title=true&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
 </div>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="background-color="white"">
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+## ⚙️ Languages and toolkit
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![DevOps](https://img.shields.io/badge/devops-%23ffffff.svg?style=for-the-badge&logo=azure-devops&logoColor=0078D7)
+<!-- <div style="background-color="white"">
 <p align="left"> 
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -57,24 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-
- 
-  
-<!--   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  /> -->
-  
-<!--   <img width="12" />
-  <img src="https://github.com/joseCarlosAndrade/joseCarlosAndrade/assets/89979529/a520102b-40cb-47c7-92dc-e2eabf12a037" height="40" alt="github logo"  /> -->
-
-  
-  <!-- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> -->
-  
-  <!-- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  /> -->
    </p>
-</div>
+</div> -->
 
 
