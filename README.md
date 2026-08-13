@@ -7,9 +7,9 @@
 
 <img height="250" width="250" alt="gif duck" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZkc2txaGs3bHg0cDJxanM1dzlwNDQ0ZzEwbzM3Y2Z5aTFybDZzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LxAwk0rwFH4wcJSM9T/giphy.gif">
 
-- 💼 **Golang Software Engineer** at [Orasis Holding](https://www.linkedin.com/company/orasis-holding/posts/?feedView=all) with hands-on experience **developing, managing and deploying** scalable microsservices for pricing software solutions. My focus is on system design, event-driven distributed architecture and database services.
+- 💼 **Golang Software Engineer**. Currently working at The Boston Consulting Group - [BCG X](https://github.com/BCG-X-Official), with hands-on experience **developing, managing and deploying** scalable microservices for pricing software solutions. My focus is on system design, event-driven distributed architecture and database services.
 
-- 🔭 Contributed to **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
+- 🔭 Contributed to **[Margia](https://www.linkedin.com/company/margia/posts/?feedView=all)**, **[Monipaep Organization](https://github.com/MoniPaepUSP) and [Petrobras Project](https://github.com/EESC-LabRoM) for University of Sao Paulo (USP)**
 
 <!--- - 🌱 I’m currently learning **Typescript with Express and Nodejs for backend, Docker for deploying and DevOps pipeline, PostgresSQL, Golang for backend and microsservices implementation** -->
 - 👨‍💻 Some of my projects are available at [My Online Portfolio](https://josecarlosandrade.github.io/portfolio/) 
